@@ -1,6 +1,6 @@
 # Quotes Book iOS App
 
-![](https://github.com/keremoflu/QuotesBook/assets/4960295/e75ff378-8fbc-4656-a0aa-0936e86f7b43)
+![Quotes App](https://github.com/keremoflu/QuotesBook/assets/4960295/d8820a3f-939d-4bf6-8f8d-e4b86d2b0286)
 
 [![Swift](https://img.shields.io/badge/Swift-5-FF995A?labelColor=868686&style=flat&link=https://www.swift.org/)](https://www.swift.org/)
 [![Xcode](https://img.shields.io/badge/Xcode-3D8ED9?style=flat&link=https://developer.apple.com/xcode//)](https://developer.apple.com/xcode/)
