@@ -9,5 +9,5 @@ import Foundation
 
 struct APIManager {
     static let apiUrl = "https://api.api-ninjas.com/v1/quotes?category="
-    static let apiKey = "yNZW1Adod0g4eBlMZgQewA==lOGHSBTpXBxCDMS9"
+    static let apiKey = "API_KEY_HERE"
 }
