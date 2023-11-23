@@ -1,3 +1,4 @@
 # Header
 
-https://github.com/keremoflu/QuotesBook/assets/4960295/16037b48-bbf3-44fd-9a34-f9d6678d0aaf
+
+![](https://github.com/keremoflu/QuotesBook/assets/4960295/85686add-2f7c-48ba-9b50-f1c1c4ad3e6c)
