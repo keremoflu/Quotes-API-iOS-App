@@ -7,6 +7,7 @@
 
 ![Quotes App](https://github.com/keremoflu/QuotesBook/assets/4960295/d8820a3f-939d-4bf6-8f8d-e4b86d2b0286)
 
+![](https://im3.ezgif.com/tmp/ezgif-3-811d662160.gif)
 
 # Contact
 If you wish to contact, feel free to mail me; keremoflu@yandex.com
