@@ -16,7 +16,8 @@
 # Preview
 ![Quotes Book App](https://github.com/keremoflu/QuotesBook/assets/4960295/1a0d0c01-1fad-48e0-ba79-472eba73f1ad)
 
-
+# Requirements
+* Sign Up to API-Ninjas to get Quotes x-api-key (Free up to 10.00 calls/month)
 
 # Contact
 If you wish to contact, feel free to mail me; keremoflu@yandex.com
