@@ -1,4 +1,4 @@
-# Quotes Book iOS App
+# Quotes API iOS App
 
 [![Swift](https://img.shields.io/badge/Swift-5-FF995A?labelColor=868686&style=flat&link=https://www.swift.org/)](https://www.swift.org/)
 [![Xcode](https://img.shields.io/badge/Xcode-3D8ED9?style=flat&link=https://developer.apple.com/xcode//)](https://developer.apple.com/xcode/)
