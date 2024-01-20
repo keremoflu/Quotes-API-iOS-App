@@ -5,7 +5,7 @@
 [![Swift Data](https://img.shields.io/badge/Swift%20Data-B8C3CC?style=flat&link=https://developer.apple.com/documentation/swiftdata)](https://developer.apple.com/documentation/swiftdata)
 [![Quotes](https://img.shields.io/badge/Quotes-API-3CC161?labelColor=868686&style=flat&link=https://api-ninjas.com/api/quotes)](https://api-ninjas.com/api/quotes)
 
-![Quotes App](https://github.com/keremoflu/QuotesBook/assets/4960295/d8820a3f-939d-4bf6-8f8d-e4b86d2b0286)
+![Quotes App](https://github.com/keremoflu/Quotes-API-iOS-App/assets/4960295/29102fe0-f6ea-4a55-9c23-8e0a8fb98512)
 
 # Features
 * Quotes Data from API
@@ -14,7 +14,7 @@
 * Setting Auto Play Seconds
 
 # Preview
-![Quotes Book App](https://github.com/keremoflu/QuotesBook/assets/4960295/1a0d0c01-1fad-48e0-ba79-472eba73f1ad)
+![Quotes Book App](https://github.com/keremoflu/Quotes-API-iOS-App/assets/4960295/9e8c8aaa-f3ac-4797-a1dc-996e8c98fd0c)
 
 # Requirements
 * Sign Up to API-Ninjas to get x-api-key (Free up to 10.000 calls/month)
