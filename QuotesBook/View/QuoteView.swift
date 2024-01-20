@@ -29,8 +29,7 @@ struct QuoteView: View {
                 .resizable()
                 .ignoresSafeArea()
                 .animation(.easeOut(duration: 0.7))
-                
-            
+           
             VStack {
                 Spacer()
                 VStack (alignment: .center){
@@ -62,7 +61,6 @@ struct QuoteView: View {
                         .animation(.easeInOut(duration: 0.2))
                 }.padding(.trailing, 32)
                 
-                
                 HStack (spacing: 32) {
                    
                     Button(""){
@@ -93,7 +91,6 @@ struct QuoteView: View {
                 }
                     .padding(.bottom, 32)
             }
-           
         }
     }
     
@@ -115,7 +112,7 @@ struct QuoteView: View {
     
     func addToFavorite(item: FavQuote) {
         
-        //simple empty check during quote change
+        //empty check during quote change
         if(!item.author.isEmpty){
             context.insert(item)
         }
@@ -173,9 +170,6 @@ struct QuoteView: View {
         }
         
     }
-    
-    
-    
     
 }
 

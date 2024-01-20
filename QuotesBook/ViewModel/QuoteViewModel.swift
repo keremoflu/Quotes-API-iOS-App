@@ -55,7 +55,6 @@ class QuoteViewModel: ObservableObject {
                 return "love1"
             }
     }
-    
  
     func toggleAutoPlay(){
         isAutoPlayMode.toggle()
